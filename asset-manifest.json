@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Web_Quiz_App_ReactJS/static/css/main.62e459cd.chunk.css",
-    "main.js": "/Web_Quiz_App_ReactJS/static/js/main.d48fbc8b.chunk.js",
-    "main.js.map": "/Web_Quiz_App_ReactJS/static/js/main.d48fbc8b.chunk.js.map",
-    "runtime-main.js": "/Web_Quiz_App_ReactJS/static/js/runtime-main.1f2da514.js",
-    "runtime-main.js.map": "/Web_Quiz_App_ReactJS/static/js/runtime-main.1f2da514.js.map",
-    "static/js/2.f09a951c.chunk.js": "/Web_Quiz_App_ReactJS/static/js/2.f09a951c.chunk.js",
-    "static/js/2.f09a951c.chunk.js.map": "/Web_Quiz_App_ReactJS/static/js/2.f09a951c.chunk.js.map",
+    "main.js": "/Web_Quiz_App_ReactJS/static/js/main.bbd8e72d.chunk.js",
+    "main.js.map": "/Web_Quiz_App_ReactJS/static/js/main.bbd8e72d.chunk.js.map",
+    "runtime-main.js": "/Web_Quiz_App_ReactJS/static/js/runtime-main.ed249b83.js",
+    "runtime-main.js.map": "/Web_Quiz_App_ReactJS/static/js/runtime-main.ed249b83.js.map",
+    "static/js/2.1727c6de.chunk.js": "/Web_Quiz_App_ReactJS/static/js/2.1727c6de.chunk.js",
+    "static/js/2.1727c6de.chunk.js.map": "/Web_Quiz_App_ReactJS/static/js/2.1727c6de.chunk.js.map",
     "index.html": "/Web_Quiz_App_ReactJS/index.html",
     "static/css/main.62e459cd.chunk.css.map": "/Web_Quiz_App_ReactJS/static/css/main.62e459cd.chunk.css.map",
-    "static/js/2.f09a951c.chunk.js.LICENSE.txt": "/Web_Quiz_App_ReactJS/static/js/2.f09a951c.chunk.js.LICENSE.txt",
+    "static/js/2.1727c6de.chunk.js.LICENSE.txt": "/Web_Quiz_App_ReactJS/static/js/2.1727c6de.chunk.js.LICENSE.txt",
     "static/media/quiz-start-image.1338e4d6.png": "/Web_Quiz_App_ReactJS/static/media/quiz-start-image.1338e4d6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f2da514.js",
-    "static/js/2.f09a951c.chunk.js",
+    "static/js/runtime-main.ed249b83.js",
+    "static/js/2.1727c6de.chunk.js",
     "static/css/main.62e459cd.chunk.css",
-    "static/js/main.d48fbc8b.chunk.js"
+    "static/js/main.bbd8e72d.chunk.js"
   ]
 }
